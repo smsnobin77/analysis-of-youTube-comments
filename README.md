@@ -1,2 +1,2 @@
-# analysis-of-youTube-comments
+# analysis-of-youtube-comments
 Analysis of YouTube Comments using R - Data Science (CSCI 6370) course
